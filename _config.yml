@@ -1,31 +1,29 @@
 # Site settings
-title: "Yury Voloshin"
-email: yvoloshin01@gmail.com
-description: "Yury Voloshin's Personal Site"
+title: "Ruby Wynn"
+email: 
+description: "Ruby Wynn's Personal Site"
 baseurl: ""
-url: "http://yvoloshin.github.io"
-title_description: "A newly-minted web developer specializing in Ruby on Rails. Also experienced in HTML5, CSS3, JQuery, JavaScript, and more. A former chemical engineer. A life-long learner who enjoys picking up new technology skills and building on familiar ones. Yury lives in Brooklyn, NY with his wife and two daughters."
+url: "http://rubywynn.com"
+title_description: "I am a Biology major at St Mary's University."
 title_image: "http://i.imgur.com/VSI9h3S.jpg"
 google_analytics: "UA-67857103-1"
-disqus_account: yvoloshin
-github_repository: https://yvoloshin.github.io
+disqus_account: 
+github_repository: https://github.com/r-wynn/r-wynn.github.io/
 addthis_id: 
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: YuryVoloshin
-github_username:  yvoloshin
-linkedin_link: http://www.linkedin.com/in/yvoloshin
+twitter_username: 
+github_username:  r-wynn
+linkedin_link: www.linkedin.com/in/r-wynn
 google_plus_link: 
 stackoverflow_link:
 
 # Footer
-footer_left: "Template made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: ""
+footer_right: ""
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+
 permalink: pretty
 exclude: [vendor]
