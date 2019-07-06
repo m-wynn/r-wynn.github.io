@@ -6,7 +6,7 @@ author:     Ruby Wynn
 summary:    My first post
 categories: 
 tags:
- - finders
+ 
 ---
 
 I made a website!
